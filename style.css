@@ -63,3 +63,48 @@ button {
     font-weight: bold;
     margin: 20px;
 }
+
+@media screen and (max-width: 667px) {
+    .container {
+        width: 60%;
+    }
+
+    input[type="text"] {
+        width: 50%;
+        margin-top: 10px;
+        margin-left: 8px;
+    }
+
+    span {
+        margin-left: 2px;
+    }
+
+    button {
+        width: 90%;
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 70%;
+    }
+
+    button {
+        width: 90%;
+        margin-left: 10px;
+    }
+
+    .result {
+        font-size: 20px;
+    }
+
+    .guide {
+        font-size: 20px;
+    }
+
+    span {
+        font-size: 20px;
+    }
+}
