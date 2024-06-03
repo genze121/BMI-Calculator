@@ -3,8 +3,8 @@
     padding: 0;
 }
 
-body{
-    background: #cbb1cb
+body {
+    background: #cbb1cb;
 }
 
 .container {
@@ -32,7 +32,7 @@ span {
     margin-left: 35px;
 }
 
-button{
+button {
     background: green;
     color: #fff;
     height: 30px;
@@ -45,20 +45,20 @@ button{
     cursor: pointer;
 }
 
-.guide{
+.guide {
     text-align: center;
     margin-top: 15px;
 }
 
-.guide h3{
+.guide h3 {
     margin: 10px;
 }
 
-.guide p{
+.guide p {
     margin: 5px;
 }
 
-.result{
+.result {
     text-align: center;
     font-weight: bold;
     margin: 20px;
