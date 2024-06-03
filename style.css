@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #cbb1cb
+}
+
+.container {
+    margin: 120px auto 120px;
+    width: 40%;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 5px 5px;
+}
+
+.container h2 {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 60%;
+    margin-top: 20px;
+    margin-left: 25px;
+    height: 25px;
+    border: none;
+}
+
+span {
+    margin-left: 35px;
+}
+
+button{
+    background: green;
+    color: #fff;
+    height: 30px;
+    border: none;
+    width: 70%;
+    border-radius: 10px;
+    margin: auto;
+    margin-left: 100px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.guide{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.guide h3{
+    margin: 10px;
+}
+
+.guide p{
+    margin: 5px;
+}
+
+.result{
+    text-align: center;
+    font-weight: bold;
+    margin: 20px;
+}
