@@ -26,6 +26,7 @@ input[type="text"] {
     margin-left: 25px;
     height: 25px;
     border: none;
+    padding: 1rem 1rem;
 }
 
 span {
